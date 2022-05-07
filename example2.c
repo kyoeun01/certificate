@@ -26,3 +26,4 @@ main()
   char f[] = "45.6";
   printf("%d\n", atoi(e) + atoi(f));
 }
+2022.05.07
