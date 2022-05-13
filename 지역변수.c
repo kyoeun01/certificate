@@ -17,4 +17,5 @@ void assign (void)
 	printf("assign 함수 a : %d\n",a);
 }
 
-//
+//두 함수에서 같은 이름의 지역변수를 사용한 경우
+
