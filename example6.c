@@ -32,3 +32,5 @@ main()
      small = nmg;
   }
 }                   
+
+              
