@@ -7,3 +7,5 @@ main()
   k %= j;
   printf("%d, %d, %d\n", i, j, k);
 }
+
+//0525
